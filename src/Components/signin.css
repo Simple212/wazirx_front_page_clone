@@ -1,0 +1,21 @@
+.svg20{
+    color: white !important;
+}
+.btn100{
+    border: none !important;
+    border-radius: 4px !important;
+}
+.input100{
+    border-radius: 5px !important;
+}
+.anchor_t{
+    color: #3067f0 !important;
+}
+.anchor_t:hover{
+    color: black !important;
+}
+.binance_logo{
+    font-weight: bolder !important;
+    cursor: pointer !important;
+    color :#fcc301 !important;
+}

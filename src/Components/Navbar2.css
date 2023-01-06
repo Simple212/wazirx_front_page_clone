@@ -1,0 +1,77 @@
+.navbar2{
+    background-color: #3067f0 !important;   
+}
+.navlink1{
+    background-color: #3067f0 !important;   
+    font-weight: bolder !important;
+    padding-top: 26px !important;
+    padding-bottom: 25px !important;
+}
+.navlink1:hover{
+    background-color: #2a5ad2 !important;
+}
+.navlink2{
+    background-color: #3067f0 !important;   
+    font-weight: bolder !important;
+    padding-top: 26px !important;
+    padding-bottom: 25px !important;
+}
+.navlink2:hover{
+    background-color: #2a5ad2 !important;
+}
+.navlink3{
+    background-color: #3067f0 !important;   
+    font-weight: bolder !important;
+    padding-top: 26px !important;
+    padding-bottom: 25px !important;
+}
+.navlink3:hover{
+    background-color: #2a5ad2 !important;
+}
+#btn4{
+    padding: 35px !important;
+    background-color: #f0cc0c !important;
+    color: black !important;
+    font-weight: 800 !important;
+    font-size: 14px !important;
+    height: 75px !important;
+}
+#btn4:hover{
+    background-color: #cbb334 !important;
+}
+.svg10{
+    color: black !important;
+}
+.navlink4{
+    background-color: #3067f0 !important;   
+    font-weight: bolder !important;
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+}
+.navlink4:hover{
+    background-color: #2a5ad2 !important;
+}
+.navlink5{
+    background-color: #3067f0 !important;   
+    font-weight: bolder !important;
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+}
+.navlink5:hover{
+    background-color: #2a5ad2 !important;
+}
+.navlink6{
+    background-color: #3067f0 !important;   
+    font-weight: bolder !important;
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+}
+.navlink6:hover{
+    background-color: #2a5ad2 !important;
+}
+.svg10{
+    color: white !important;
+}
+.navbar_brand:hover{
+    cursor: pointer;
+}
